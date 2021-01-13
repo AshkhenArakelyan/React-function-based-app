@@ -1,0 +1,11 @@
+.products {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 50px;
+}
+.products h2 {
+    color: #2d5a5f;
+    text-transform: uppercase;
+}
